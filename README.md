@@ -1,1 +1,1 @@
-# Geospatial-with-R--Course
+# Geospatial-with-R-Course
